@@ -1,0 +1,9 @@
+
+[project]
+name = "mobile-dev"
+version = "1.0.0"
+dependencies = [
+    "flask"
+]
+
+[tool.vercel]
